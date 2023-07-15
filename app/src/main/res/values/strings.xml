@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name" translatable="false">Calculator</string>
+    <string name="help">help</string>
+    <string name="calculator">calculator</string>
+    <string name="cal">+|=</string>
+    <string name="about">about</string>
+    <string name="settings">settings</string>
+    <string name="set">⚙️</string>
+    <string name="book">📖</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="zero">0</string>
+    <string name="point">.</string>
+    <string name="clear">C</string>
+    <string name="br">()</string>
+    <string name="perc">%</string>
+    <string name="div">÷</string>
+    <string name="times">×</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="equal">=</string>
+    <string name="save">S</string>
+    <string name="recall">R</string>
+    <string name="threel">3</string>
+    <string name="twol">2</string>
+    <string name="onel">1</string>
+    <string name="android_app_version_0_1_beta">Android App:Version 0.1 BETA</string>
+    <string name="the_scientific_calculator_can_be_used_only_on_landscape_mode">The scientific calculator can be used only on landscape (Mode)</string>
+    <string name="helpactivity">Help</string>
+    <string name="to_use_some_function_you_will_have_to_enter_a_value_before_the_function">To use some function you will have to enter a value before the function</string>
+    <string name="save_and_recall_button_s_means_save_save_an_answer_value_and_r_means_recall_the_saved_value_to_use_for_another_calculation_and_x_is_to_remove_saved_values">save and recall button... (s) means save (save an answer value)and(r) means recall(the saved value to use for another calculation)...(and x is to remove saved values)</string>
+    <string name="button1">1</string>
+
+    <string name="_2">2</string>
+
+    <string name="sqrt">√</string>
+
+    <string name="taninv">tan-¹</string>
+    <string name="sininv">sin-¹</string>
+    <string name="pm">+/-</string>
+    <string name="cosinv">cos-¹</string>
+
+    <string name="xtwo">x²</string>
+    <string name="x1_yfunc">x1/y</string>
+    <string name="_1_xfunc">1/x</string>
+    <string name="log10func">log10</string>
+    <string name="_3func">3</string>
+    <string name="todecimal">D</string>
+    <string name="x1_y">x1/y</string>
+    <string name="in">In</string>
+    <string name="log10">log10</string>
+    <string name="_1_x">1/x</string>
+    <string name="x2">x²</string>
+    <string name="ex">ex</string>
+    <string name="_10x">10x</string>
+    <string name="xy">xy</string>
+    <string name="cos1">cos-¹</string>
+    <string name="PM">+/-</string>
+    <string name="sin1">sin-¹</string>
+    <string name="tan1">tan-¹</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="SQRT">√</string>
+    <string name="tan">tan</string>
+    <string name="x">x.</string>
+    <string name="b">B</string>
+    <string name="expt">ex</string>
+    <string name="xpt">x²</string>
+    <string name="xypt">xy</string>
+    <string name="log10pt">log10</string>
+    <string name="_1_xpt">1/x</string>
+    <string name="_10xpt">10x</string>
+    <string name="x1_ypt">x1/y</string>
+    <string name="tanpt">tan-¹</string>
+    <string name="inpt">In</string>
+    <string name="tannpt">tan</string>
+    <string name="sin1pt">sin-¹</string>
+    <string name="cos1pt">cos-¹</string>
+    <string name="sqrtpt">√</string>
+    <string name="sinpt">sin</string>
+</resources>
